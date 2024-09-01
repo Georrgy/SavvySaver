@@ -1,7 +1,7 @@
 
-**Savvy Savor**
+**Savvy Saver**
 
-Savvy Savor is an interactive financial planning application that leverages
+Savvy Saver is an interactive financial planning application that leverages
 historical data to showcase the potential outcomes of investments over time. It
 offers users a unique opportunity to learn from the past to make informed
 decisions for the future.
