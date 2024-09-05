@@ -1,9 +1,8 @@
-const express = require('express');
-const router = express.Router();
-const controller = require('./controllers/controller');
+const CompanyApi = require('./controller/CompanyControl.js');
+const Router = require('koa-router');
+const router = new Router();
 
-router.get('/coins', controller.getCoins);
-router.get('/currency', controller.getCurrency);
-router.post('/watchlist', controller.addWatchlist);
+router.get('/company/:symbol', CompanyApi.fetchAndUpdateCompanyData);
+
 
 module.exports = router;
