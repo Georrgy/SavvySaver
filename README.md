@@ -1,4 +1,3 @@
-
 **Savvy Saver**
 
 Savvy Saver is an interactive financial planning application that leverages
@@ -9,7 +8,6 @@ decisions for the future.
 <img width="1264" alt="Image from GitHub" src="https://github.com/user-attachments/assets/b7eec846-77ba-4525-9d5e-e01e2515e6fe">
 <img width="1325" alt="Private User Image" src="https://github.com/user-attachments/assets/314767a3-0ba7-4268-9b90-0012ebc8c304">
 <img width="1463" alt="Image from GitHub (1)" src="https://github.com/user-attachments/assets/653f7496-97b8-461c-b789-cd562f2eb7b1">
-
 
 **Idea**
 
